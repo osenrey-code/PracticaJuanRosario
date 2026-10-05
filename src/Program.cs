@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hola, clase.");
+﻿Console.WriteLine("Hola, equipo.");
